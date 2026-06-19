@@ -1,5 +1,7 @@
 # STM32N6-DOCUMENT
 STM32N6 documents
+### MOOC - STM32N6 demo workshop
+https://youtube.com/playlist?list=PLTJzs51NlEICI7ARAHOyUqMhTgJE0UFv0&si=qUUo6MKkffdKAlS_
 ### NUCLEO-N657X0-Q All Documents
 https://www.st.com/en/evaluation-tools/nucleo-n657x0-q.html#documentation
 ### STM32N6 Nucleo-144 board (MB1940) - User manual
