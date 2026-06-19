@@ -1,5 +1,6 @@
 # STM32N6-DOCUMENT
 STM32N6 documents
+## BOOT
 ### MOOC - STM32N6 demo workshop
 https://youtube.com/playlist?list=PLTJzs51NlEICI7ARAHOyUqMhTgJE0UFv0&si=qUUo6MKkffdKAlS_
 ### NUCLEO-N657X0-Q All Documents
@@ -18,4 +19,10 @@ https://community.st.com/stm32-mcus-60/how-to-create-an-stm32n6-fsbl-load-and-ru
 https://community.st.com/stm32-mcus-60/stm32n6-boot-rom-explained-145756
 ### STM32N6 FSBL explained
 https://community.st.com/stm32-mcus-60/stm32n6-fsbl-explained-145831
-### 
+## NPU
+### How to build an AI application from scratch on the NUCLEO-N657X0-Q using STM32CubeMX
+https://community.st.com/stm32-mcus-60/how-to-build-an-ai-application-from-scratch-on-the-nucleo-n657x0-q-using-stm32cubemx-155360/index2.html#toc-hId-1009099607
+### Linker garbage problem when deploying AI models on the STM32N6 development board
+https://community.st.com/edge-ai-134/linker-garbage-problem-when-deploying-ai-models-on-the-stm32n6-development-board-154770
+### ST Edge AI Core Technology Documentation
+https://stedgeai-dc.st.com/assets/embedded-docs/index.html
