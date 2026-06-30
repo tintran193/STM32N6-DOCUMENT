@@ -29,3 +29,5 @@ https://community.st.com/edge-ai-134/linker-garbage-problem-when-deploying-ai-mo
 https://stedgeai-dc.st.com/assets/embedded-docs/index.html
 ### ST Neural-ART NPU concepts
 https://stm32ai-cs.st.com/assets/embedded-docs/stneuralart_programming_model.html
+### Getting started - How to evaluate a model on STM32N6 development board
+https://stm32ai-cs.st.com/assets/embedded-docs/stneuralart_getting_started.html
