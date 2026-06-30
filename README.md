@@ -27,3 +27,5 @@ https://community.st.com/stm32-mcus-60/how-to-build-an-ai-application-from-scrat
 https://community.st.com/edge-ai-134/linker-garbage-problem-when-deploying-ai-models-on-the-stm32n6-development-board-154770
 ### ST Edge AI Core Technology Documentation
 https://stedgeai-dc.st.com/assets/embedded-docs/index.html
+### ST Neural-ART NPU concepts
+https://stm32ai-cs.st.com/assets/embedded-docs/stneuralart_programming_model.html
